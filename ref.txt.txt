@@ -1,0 +1,54 @@
+<link rel = "stylesheet" href="slyle.css">
+
+<head>
+<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+<link rel="manifest" href="site.webmanifest">
+<title>Робинзон Крузо</title>
+</head>
+
+ <header>
+  <img src="https://i.postimg.cc/6QxD0YcK/i.webp" width="290" draggable="false" alt="Logo">
+  </header>
+
+<main>
+  <div class="post">
+<img decoding="async" height="230" src="https://i.postimg.cc/3JxQR7Yv/i.webp" alt="Card image cap">
+    <div>
+    <h1>Робинзон Крузо</h1>
+    <h5 class="post-info"Автор статьи:Hame7chik> </h5>
+                    <h3>
+                <p>Родился в Лондоне в семье мясоторговца, получил духовное образование, но от церковной карьеры отказался.</p>
+                <p>Занимался коммерческой деятельностью: имел собственное чулочное дело, завод по производству кирпича и черепицы, торговал вином, свечами, табаком, но разорился.
+
+</p>
+                <p>Принимал участие в восстании герцога Монмута против Якова II Стюарта и сражении при Седжмуре 6 июля 1685 года. </p>
+                <p>По торговым делам часто бывал в Испании, Португалии и Франции, где познакомился с жизнью Европы и совершенствовался в языках.
+
+</p>
+                <p>На протяжении 9 лет был учредителем и главным редактором периодического издания «Ревью». </p>
+                  </h3>
+             </div>
+  </div>
+  </main>
+    
+    <footer>
+      <div>
+        <div>
+            <div class="footer-columns">
+              <div class="footer-column">
+                
+            </div>
+              <div class="footer-column">
+                
+               <p> <br><strong>Email: <a href="#">hamerson815@gmail.com</p></strong>
+                </p>
+              </div>
+              </div>
+            </div>
+               <center>
+                 <small>Copyight &copy; 2025</small>                
+        </center> 
+        </div>
+        </footer>
